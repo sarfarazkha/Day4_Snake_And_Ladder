@@ -27,6 +27,7 @@ public class SnakeAndLadder {
                     break;
 
             }
+
             System.out.println("position is:" + position);
         }
     }
